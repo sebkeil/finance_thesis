@@ -1,5 +1,4 @@
-### ***Thesis Code: Utilizing machine-learning derived news sentiment
-signals for modeling excess returns***
+### Thesis Code: Utilizing machine-learning derived news sentiment signals for modeling excess returns
 
 
 This repository contains the code associated with my finance master thesis. 
