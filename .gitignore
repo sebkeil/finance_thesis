@@ -1,2 +1,3 @@
-files/checkpoints
 .ideas
+files/checkpoints/c02_preprocessednews.csv
+files/checkpoints/c03_extractedsentiment.csv
